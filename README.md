@@ -58,16 +58,3 @@
 
 <br/>
 <br/>
-
-## Connect with me:
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/amen-zelealem/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.t.me/CaptainAmeNEL/"><img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000"/></a>
-
-</p>
-
-## ❤ Views and Followers
-
-<a href="https://github.com/Amen-Zelealem?tab=followers"><img src="https://img.shields.io/github/followers/Amen-Zelealem?label=Followers&style=social" alt="GitHub Badge"></a>
