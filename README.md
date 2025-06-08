@@ -1,25 +1,24 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" src="https://i.imgur.com/iXuL1HG.png" alt="Banner"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Amen Zelealem</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Ethiopia 🇪🇹.</h3>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>, I'm Amen Zelealem</h1> <h3 align="center">🚀 Full Stack Developer | 🇪🇹 Ethiopia</h3>
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Laravel Project]**
+- 🔭 I’m currently working on an exciting Laravel Project
 
-- 🌱 I’m currently learning **[Data Science and Machine Learning]**
+- 📚 Exploring the world of Data Science & Machine Learning
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🤝 Open to collaborating on Open Source Projects
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://amenzelealem.vercel.app)**
+- 🌐 Check out my work: **[My Portfolio](https://amenzelealem.vercel.app)**
 
-- 📫 How to reach me **amenzelealem@gmail.com**
+- 📫 Reach me at: **amenzelealem@gmail.com**
 
-- ⚡ Fun fact **I love playing video games specially ([GTA V](https://www.rockstargames.com/gta-v)).**
+- 🎮 Gamer at heart – I enjoy playing **[GTA V](https://www.rockstargames.com/gta-v)**
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="left">
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -58,3 +57,13 @@
 
 <br/>
 <br/>
+
+## 📫 Let's Connect!
+
+<p align="center"> 
+<a href="mailto:amenzelealem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/amen-zelealem"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a> 
+<a href="https://twitter.com/amenzelealem"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a> <a href="https://amenzelealem.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+ </p>
+
+**_Thank you for visiting my profile! Have a great day 🚀_**
