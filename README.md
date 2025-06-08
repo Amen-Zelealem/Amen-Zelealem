@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://www.freepik.com/free-vector/programming-concept-illustration_7118758.htm#fromView=image_search_similar&page=1&position=5&uuid=618d8152-6d2a-48a7-bf8a-f3ad9c267287&query=Developer" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Amen Zelealem</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Ethiopia 🇪🇹.</h3>
