@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Laravel Project](https://laravel.com/)**
+- 🔭 I’m currently working on **[Laravel Project]**
 
-- 🌱 I’m currently learning **[Odoo](https://www.odoo.com/)**
+- 🌱 I’m currently learning **[Data Science and Machine Learning]**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
