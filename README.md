@@ -62,7 +62,8 @@
 <p align="center"> 
 <a href="mailto:amenzelealem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/amen-zelealem"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a> 
-<a href="https://twitter.com/amenzelealem"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a> <a href="https://amenzelealem.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://twitter.com/amenzelealem"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a> 
+<!-- <a href="https://amenzelealem.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a> -->
  </p>
 
 **_Thank you for visiting my profile! Have a great day 🚀_**
