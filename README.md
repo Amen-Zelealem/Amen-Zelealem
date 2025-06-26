@@ -69,13 +69,23 @@
   <img title="🔥 GitHub Streak Stats" alt="Amen Zelealem's streak" src="https://github-readme-streak-stats.demolab.com?user=Amen-Zelealem&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
-## 📊 My GitHub Stats
+---
+## 📊 My Github Stats
 
-<p align="center">
-  <img alt="Amen Zelealem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Amen-Zelealem&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <br/>
+<a href="https://github.com/Amen-Zelealem/github-readme-stats">
+  <img alt="Amen Zelealem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Amen-Zelealem&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/Amen-Zelealem/github-readme-stats">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amen-Zelealem&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Amen-Zelealem/github-readme-activity-graph">
+  <img alt="Amen Zelealem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Amen-Zelealem&theme=github-compact" />
+</a>
+
+---
 
 ## 📈 Contribution Graph
 
