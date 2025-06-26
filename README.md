@@ -66,7 +66,8 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img title="🔥 GitHub Streak Stats" alt="Amen Zelealem's streak" src="https://github-readme-streak-stats.demolab.com?user=Amen-Zelealem&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  <img title="🔥 GitHub Streak Stats" alt="Amen Zelealem's streak" src="https://streak-stats.demolab.com/?user=Amen-Zelealem&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  
 </p>
 
 ---
