@@ -81,10 +81,12 @@
 </a>
 
 <br/><br/>
+<!--
 
 <a href="https://github.com/Amen-Zelealem/github-readme-activity-graph">
   <img alt="Amen Zelealem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Amen-Zelealem&theme=github-compact" />
 </a>
+-->
 
 ---
 
