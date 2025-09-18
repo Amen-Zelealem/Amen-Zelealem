@@ -54,14 +54,15 @@
   <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/></a>
 </p>
-
+<!---
 ### 🎨 Design
-
+-->
+<!--
 <p align="left">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/></a>
 </p>
 
----
+<!---
 
 ## 🔥 GitHub Streak
 
@@ -69,6 +70,8 @@
   <img title="🔥 GitHub Streak Stats" alt="Amen Zelealem's streak" src="https://streak-stats.demolab.com/?user=Amen-Zelealem&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   
 </p>
+
+-->
 
 <!---
 <!-- ## 📊 My Github Stats
@@ -88,7 +91,7 @@
 </a>
 -->
 
---->
+<!---  -->
 
 ## 📈 Contribution Graph
 
