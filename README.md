@@ -96,7 +96,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img alt="Amen Zelealem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Amen-Zelealem&theme=github-compact" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Amen-Zelealem&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
